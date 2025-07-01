@@ -85,6 +85,6 @@ Explore the interactive dashboard 👉 [**Tableau Public Dashboard**](https://pu
 - **GitHub** – For version control and portfolio hosting
 
 ---
-
-
+## 📊 Interactive Tableau Dashboard
+Explore the dashboard 👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/letia.kareisi/viz/PHASE1PROJECT_17509436136160/GENDERGAPINEDUCATION?publish=yes)
 
