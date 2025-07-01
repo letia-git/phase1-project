@@ -1,4 +1,4 @@
-##phase1-project
+
 # 📘 Gender Gap in School Enrollment in Kenya (2010–2023)
 
 ## 🔍 Overview
